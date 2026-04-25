@@ -1,0 +1,7 @@
+Q1 - Write a controlled form in React with two fields: patientName and email .Use useState to track each Field. 
+     On submit , log the form valuse to the console and reset both fields to empty strings. 
+     Add a basic check that prevents submission if either field is empty.
+
+
+Q2 - Set up React Router with three routes: / (Home page), / about , and /contact Add a navigation bar with links  to all three pages. 
+Each page should render a simple heading indentifying itself.
